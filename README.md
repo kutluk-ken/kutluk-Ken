@@ -11,8 +11,12 @@
 * [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/NE3Q6RZ8QCCZ)
 * [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/certificate/Y7UWQYU48GD6)
 * [Machine Learning Using SAS Viya](https://www.credly.com/badges/769cb2e6-364b-402b-8c5a-fdfc3c52e6ba?source=linked_in_profile)
-<hr>
-<div style="display: block;">
+
+<a href="https://www.youtube.com/watch?v=imhmn4r0gic&t=1s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<!--<hr> 
+<div style="display: block;">-->
+
 <p>
   <h3 align="center">Stats:</h3>
 <p>
