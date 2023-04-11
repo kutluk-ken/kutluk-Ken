@@ -5,7 +5,7 @@
 <a href="https://www.youtube.com/watch?v=imhmn4r0gic&t=1s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <strong>About Me:</strong><br>
-📚 I’m a final year Machine learning and Data Mining undergraduate in University of Toronto<br>
+📚 I’m a final year Machine learning and Data Science undergraduate in University of Toronto<br>
 📈 I experienced in Actuarial Statistics, Data Analysis, Data Visualization and Forecasting<br>
 🏆 My certifications: 
 * [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/NE3Q6RZ8QCCZ)
