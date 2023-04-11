@@ -8,12 +8,9 @@
 📚 I’m a final year Machine learning and Data Mining undergraduate in University of Toronto<br>
 📈 I experienced in Actuarial Statistics, Data Analysis, Data Visualization and Forecasting<br>
 🏆 My certifications: 
-<ul>
-  <li>[Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/NE3Q6RZ8QCCZ)</li>
-  <li>[Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/certificate/Y7UWQYU48GD6)</li>
-  <li>[Machine Learning Using SAS Viya](https://www.credly.com/badges/769cb2e6-364b-402b-8c5a-fdfc3c52e6ba?source=linked_in_profile)</li>
-  
-</ul>
+* [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/NE3Q6RZ8QCCZ)
+* [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/certificate/Y7UWQYU48GD6)
+* [Machine Learning Using SAS Viya](https://www.credly.com/badges/769cb2e6-364b-402b-8c5a-fdfc3c52e6ba?source=linked_in_profile)
 <hr>
 <div style="display: block;">
 <p>
