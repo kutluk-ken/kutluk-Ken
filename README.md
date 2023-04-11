@@ -9,10 +9,10 @@
 📈 I experienced in Actuarial Statistics, Data Analysis, Data Visualization and Forecasting<br>
 🏆 My certifications: 
 <ul>
-  <li>SOA: Exam FM, Exam P</li>
-  <li>ICDL: Cloud Computing, Digital Marketing, Spreadsheets, Presentation and Online Collaboration</li>
-  <li>Coursera: SAS Visual Business Analytics</li>
-  <li>DataCamp: Shiny Fundamentals, Statistics Fundamentas and Spreadsheet Fundamentals with R Track</li>
+  <li>[Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/NE3Q6RZ8QCCZ)</li>
+  <li>[Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/certificate/Y7UWQYU48GD6)</li>
+  <li>[Machine Learning Using SAS Viya](https://www.credly.com/badges/769cb2e6-364b-402b-8c5a-fdfc3c52e6ba?source=linked_in_profile)</li>
+  
 </ul>
 <hr>
 <div style="display: block;">
