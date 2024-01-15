@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://github.com/kutluk-ken/Kutluk-Ken-/blob/main/Assets/Output.gif" alt="Hi, I'm Ken 👋 I'm a 🚀 data scientist 🚀 I ❤️ Post-rock ❤️">
+  
 </p>
 
 <a href="https://www.youtube.com/watch?v=imhmn4r0gic&t=1s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <strong>About Me:</strong><br>
-📚 I’m a final year Machine learning and Data Science undergraduate in University of Toronto<br>
-📈 I experienced in Actuarial Statistics, Data Analysis, Data Visualization and Forecasting<br>
+📚 "I am a recent graduate with a Machine Learning and Data Science degree from the University of Toronto.<br>
+📈 My skills encompass software engineering principles, algorithm development, and the implementation of machine learning models.<br>
 🏆 My certifications: 
 * [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/NE3Q6RZ8QCCZ)
 * [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/certificate/Y7UWQYU48GD6)
